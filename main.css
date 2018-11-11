@@ -193,7 +193,9 @@ height: 100px;
   top: -10px;
   left: 300px;
   width: 400px;
-  height: 100px;}
+  height: 100px;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;}
 
 #webos {
   position: relative;
@@ -201,6 +203,8 @@ height: 100px;
   right: 200px;
   width: 200px;
   height: 200px;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
 #webOS_8 {
@@ -223,6 +227,8 @@ height: 100px;
 #Man_Running {
   padding-left: 40px;
   width: 34%;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
 #Man_Running-h1 {
@@ -295,6 +301,9 @@ right: 150px;
   width: 37%;
   position: relative;
   left: 230px;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-delay: 1s;
 }
 
 #digital-signs {
@@ -307,8 +316,8 @@ right: 150px;
 #digital-signs-text {
   position: relative;
   top: -400px;
-  
   width: 400px;
+  margin-bottom: 100px;
 }
 
 #direct-view {
@@ -344,6 +353,8 @@ right: 150px;
   top: -260px;
   left: 510px;
   width: 34%;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
 #Cardio_Equipment {
